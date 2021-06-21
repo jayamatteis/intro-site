@@ -33,6 +33,7 @@ a:hover {
 
 li {
   font-style: italic;
+  font-size: 17px;
   padding-bottom: 30px;
   color: pink;
 }
