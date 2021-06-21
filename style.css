@@ -10,6 +10,7 @@ h1 {
   background-color: pink;
   padding: 30px;
   color: white;
+  text-shadow: 2px 2px #ff0000;
 }
 
 h2 {
