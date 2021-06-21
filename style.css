@@ -38,11 +38,13 @@ a:hover {
   font-style: italic;
 }
 
-li {
+ul li {
   font-style: italic;
   font-size: 20px;
   padding-bottom: 30px;
   color: black;
+  background: pink;
+  margin: 5px;
 }
 
 
