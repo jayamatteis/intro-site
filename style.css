@@ -1,6 +1,9 @@
 title {
   writing-mode: vertical-rl;
 }
+body {
+  background-image: <img src= "whitebg.jpeg";
+}
 p {
   font-size:50px;
   color: white;
