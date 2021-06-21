@@ -1,5 +1,7 @@
 title {
   writing-mode: vertical-rl;
+  font-style: oblique;
+  font-size: 100px;
 }
 body {
   background-image: <img src= "whitebg.jpeg";
@@ -10,6 +12,11 @@ p {
   border: 5px dotted white;
   background-color: pink;
   border-radius: 20px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
 }
 
 h1 {
@@ -17,13 +24,16 @@ h1 {
   padding: 30px;
   color: white;
   text-shadow: 2px 2px black;
+  font-style: oblique;
+  font-size: 100px;
 }
 
 h2 {
   color: pink;
-  padding-top: 25px;
-  padding-left: 300px;
-  font-size: 25px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom:25px;
+  font-size: 100px;
   font-style: italic;
 }
 
@@ -42,12 +52,48 @@ ul li {
   font-style: italic;
   font-size: 20px;
   padding-bottom: 30px;
+  padding-left: 20px;
+  padding-top: 30px;
   color: black;
   background: pink;
-  margin: 5px;
+  margin: 10px;
+  width: 800px;
 }
 
 
 .special{
   color: pink;
+}
+
+.kiwi{
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-top: 45px;
+}
+
+.centertext{
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 100px;
+}
+
+.hearts{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.hearts2{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 45px;
+}
+
+.hearts3{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 0px;
+   padding-bottom: 50px;
 }
