@@ -95,5 +95,11 @@ ul li {
    margin-left: auto;
    margin-right: auto;
    padding-top: 0px;
-   padding-bottom: 50px;
+}
+
+.home{
+  color: lightgreen;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 25px;
 }
